@@ -13,4 +13,8 @@ If you find that the denoise wave file contains pulses, you may set -fs to 1024.
 
 For clean tel speech, you may disable denoising (-dn N) and set -af to 0.99.
 
+For technical details, visit the SSVAD site in my homepage and download the papers of SSVAD:
+http://bioinfo.eie.polyu.edu.hk/ssvad/ssvad.htm
+
+
 Man-Wai MAK
