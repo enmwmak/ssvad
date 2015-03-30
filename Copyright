@@ -1,0 +1,57 @@
+Copyright (C) 2013 Man-Wai MAK
+
+"ssvad" is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+any later version.
+
+"ssvad" is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+This copyright statment applies to
+src/cmdline.c
+src/rm_crosstalk.c
+src/phninfo.c
+src/silence.c
+src/window.c
+src/sph_io.c
+src/sph2phn_2ch.c
+src/findnoise.c
+src/sph2phn.c
+src/winwav.c
+src/segment.c
+src/fft.c
+src/denoise.c
+src/veclib.c
+src/qsortfunc.c
+src/mmalloc.c
+src/silence.h
+src/rm_crosstalk.h
+src/winpara.h
+src/window.h
+src/fft.h
+src/findnoise.h
+src/winwav.h
+src/qsortfunc.h
+src/mmalloc.h
+src/veclib.h
+src/segment.h
+src/sph_io.h
+src/denoise.h
+src/cmdline.h
+
+
+Dr Man-Wai MAK
+Associate Professor
+Dept. of Electronic and Information Engineering
+The Hong Kong Polytechnic University
+Hung Hom
+Hong Kong
+Tel: (852)27666257
+Fax: (852)23628439
+URL: http://www.eie.polyu.edu.hk/~mwmak/
